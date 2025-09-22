@@ -1,4 +1,4 @@
-// Proyecto: Gestión Académica con Lista Enlazada Simple (versión personalizada)
+// Proyecto: Gestión Académica con Lista Enlazada 
 
 class Student {
     String firstName;
